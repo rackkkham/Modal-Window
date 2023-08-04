@@ -1,4 +1,7 @@
 <h1>Modal Window Demo</h1>
+
+<img src="https://i.imgur.com/hNrj2t5.png" alt="screenshot" />
+
 This repository contains a demonstration of an interactive modal window implemented with HTML, CSS, and JavaScript. The modal window is a popular UI component used to display additional content, forms, or information in a pop-up style without navigating away from the current page.
 
 <h2>Features:</h2>
