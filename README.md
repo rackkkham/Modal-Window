@@ -21,6 +21,3 @@ Feel free to customize the content and styling of the modal to suit your specifi
 <h2>Contributions:</h2>
 Contributions to improve the code, add new features, or fix issues are welcome! Please submit a pull request, and we'll review it together.
 <p></p>
-<h2>Author:</h2>
-<a href="https://github.com/rackkkham">Garik Amirkhanyan</a>
-
