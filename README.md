@@ -5,10 +5,10 @@
 This repository contains a demonstration of an interactive modal window implemented with HTML, CSS, and JavaScript. The modal window is a popular UI component used to display additional content, forms, or information in a pop-up style without navigating away from the current page.
 
 <h2>Features:</h2>
-<p>Trigger the modal with buttons</p>
-<p>Close the modal using the provided "Close" button or the "Esc" key</p>
-<p>Demonstrate best practices for event handling and class manipulation</p>
-<p>Create an intuitive and user-friendly experience for presenting content</p>
+<p>Trigger the modal with buttons.</p>
+<p>Close the modal using the provided "Close" button or the "Esc" key.</p>
+<p>Demonstrate best practices for event handling and class manipulation.</p>
+<p>Create an intuitive and user-friendly experience for presenting content.</p>
 <h2>How to use:</h2>
 
 <p>Clone or download the repository to your local machine.</p>
